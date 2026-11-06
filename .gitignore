@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env.local
+.env*.local
+logs/
+next-env.d.ts
+.gstack/
+*.tsbuildinfo
+.vercel
+.DS_Store
+*.pdf
+# Private: YC plan and video script stay on this Mac
+1City prototype and YC update plan.md
+docs/recording-day.md

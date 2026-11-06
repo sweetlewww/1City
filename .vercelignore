@@ -1,0 +1,18 @@
+# Never upload these to Vercel.
+# Secrets
+.env
+.env.*
+!.env.local.example
+# Personal and private files
+*.pdf
+1City prototype and YC update plan.md
+logs/
+docs/
+# Local tooling and build output
+.claude/
+.gstack/
+node_modules/
+.next/
+*.tsbuildinfo
+.DS_Store
+CLAUDE.md
